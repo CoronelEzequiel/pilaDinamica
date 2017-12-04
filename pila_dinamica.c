@@ -48,7 +48,7 @@ int sacarDePila(t_pila* p, t_info* d)
     *p = aux->sig;
     free(aux);
     return 1;
-}
+} 
 
 int verTope(const t_pila* p, t_info* d)
 {
