@@ -1,6 +1,6 @@
 #include "pila_dinamica.h"
 
-int main()
+int main() //agrego este comentario de prueba
 {
     t_pila pila2;
     t_info auxDeLectura;
